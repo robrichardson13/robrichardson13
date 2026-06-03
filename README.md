@@ -31,3 +31,4 @@ TypeScript, React / Next.js, Bun, Hono, Prisma, Python, Swift. Claude API, Agent
 - [LinkedIn](https://linkedin.com/in/rob-richardson-io)
 - rob@robrichardson.io
 
+
